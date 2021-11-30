@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/pierre-juarez/test_enviame_frontend.git"
   },
-  "keywords": ["test","frontend"],
+  "keywords": [
+    "test",
+    "frontend"
+  ],
   "author": "Pierre Juarez U.",
   "license": "ISC",
   "bugs": {
