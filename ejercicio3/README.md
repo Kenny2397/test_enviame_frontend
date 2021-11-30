@@ -29,12 +29,6 @@ _Uso de una API con ciertos requeremientos, usando la **/API Marvel**  para [Env
 
 ![Versión Mobile](src/assets/screenshots/mobile.png?raw=true "Versión Mobile")
 
-
-_Algunos procesos y/o explicación a detalle, se encuentra dentro de los propios archivos._
-
-_Pase o no pase, ¡Gracias por lo oportunidad!_ 🙌⚡
-
-
 #### Tecnologías usadas
 
 * VueJS v2
@@ -46,6 +40,11 @@ _Pase o no pase, ¡Gracias por lo oportunidad!_ 🙌⚡
 * Axios
 
 <hr>
+
+_Algunos procesos y/o explicación a detalle, se encuentra dentro de los propios archivos._
+
+_Pase o no pase, ¡Gracias por lo oportunidad!_ 🙌⚡
+
 
 ## Créditos
 
