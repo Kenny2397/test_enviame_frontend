@@ -1,11 +1,10 @@
 # Ejercicio 3 - Marvel API
 
+_Uso de una API con ciertos requeremientos, usando la **/API Marvel**  para [Enviame.io](https://enviame.io/).💪_
+
 ## Deploy
 
 <a href="https://pierre-juarez.github.io/marvel_api/" target="_blank">https://pierre-juarez.github.io/marvel_api/</a>
-
-
-_Uso de una API con ciertos requeremientos, usando la **/API Marvel**  para [Enviame.io](https://enviame.io/).💪_
 
 ## Caracteristicas 🤩
 
@@ -38,12 +37,6 @@ _Uso de una API con ciertos requeremientos, usando la **/API Marvel**  para [Env
 * TailwindCSS
 * CSS
 * Axios
-
-<hr>
-
-_Algunos procesos y/o explicación a detalle, se encuentra dentro de los propios archivos._
-
-_Pase o no pase, ¡Gracias por lo oportunidad!_ 🙌⚡
 
 
 ## Créditos
