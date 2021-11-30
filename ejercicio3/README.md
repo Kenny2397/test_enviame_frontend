@@ -23,11 +23,11 @@ _Uso de una API con ciertos requeremientos, usando la **/API Marvel**  para [Env
 
 ### Tablet
 
-![Versión Desktop](src/assets/screenshots/tablet.png?raw=true "Versión Tablet")
+![Versión Tablet](src/assets/screenshots/tablet.png?raw=true "Versión Tablet")
 
 ### Mobile
 
-![Versión Desktop](catalogo/img/screenshots/mobile.png?raw=true "Versión Mobile")
+![Versión Mobile](src/assets/screenshots/mobile.png?raw=true "Versión Mobile")
 
 
 _Algunos procesos y/o explicación a detalle, se encuentra dentro de los propios archivos._
